@@ -111,6 +111,7 @@ Note: I don't suggest manual installation due to the large amount of dependencie
 - [vs-frameblender](https://github.com/f0e/vs-frameblender)
 - [weighting.py](https://github.com/f0e/blur/blob/master/plugins/weighting.py)
 - [filldrops.py](https://github.com/f0e/blur/blob/master/plugins/filldrops.py)
+- [lines](https://llllllll.co/t/buoys-v1-2-0/37639/50)
 
 1. Download [the latest release](https://github.com/f0e/blur/releases/latest) or build the project.
 2. Download and run [installer.bat](https://raw.githubusercontent.com/f0e/blur/master/installer.bat) to automatically install all of the requirements.
